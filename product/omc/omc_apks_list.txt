@@ -1,0 +1,3 @@
+/product/app/MyGalaxy/MyGalaxy.apk
+/product/app/yandex.search/yandex.search.apk
+/product/priv-app/appcloud_oobe_samsungGlobal-release_V4.0.0.5/appcloud_oobe_samsungGlobal-release_V4.0.0.5.apk
